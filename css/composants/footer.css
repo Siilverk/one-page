@@ -1,0 +1,19 @@
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+footer .colonne p {
+    font-size: 15px;
+    color: #ccc;
+    cursor: pointer;
+}
+
+footer .colonne a {
+    text-decoration: none;
+}

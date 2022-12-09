@@ -1,0 +1,72 @@
+.page-content header button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    padding: 0;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.page-content header button:hover {
+    color: #ccc;
+    border-bottom-color: #000;
+}
+
+.carte-2 a{
+    color: rgb(20, 16, 16);
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    background: linear-gradient(to top, rgb(0, 179, 255), rgb(0, 162, 255));
+    width: 200px;
+    padding: 5px 0;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-top: 20px;
+    box-shadow: 0 0 5px 5px rgb(0, 153, 255);
+    background-color: inherit;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.carte-2 a:hover {
+    color: #ccc;
+    border-bottom-color: #000;
+}
+
+
+.button-1 {
+    color: rgb(20, 16, 16);
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    background: linear-gradient(to top, rgb(0, 179, 255), rgb(0, 162, 255));
+    width: 200px;
+    padding: 5px 0;
+    border-radius: 8px;
+    font-weight: 550;
+    margin-top: 20px;
+    box-shadow: 0 0 5px 5px rgb(0, 153, 255);
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.button-1:hover {
+    color: #ccc;
+    border-bottom-color: #000;
+}
+
+.carte-2 button {
+    text-decoration: none;
+}
+
+
